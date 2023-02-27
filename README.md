@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Let's make this world a better place with coding.
+## self improving is on.
+[Reach me ](www.instagram.com/ashish_mishra_786)
+>** TALK IS CHEAP , LET'S CODE **
+''' 
+While (doubt)
+{ 
+  Exercise;
+   If(tired)break ;
+   Sweat it out;
+}
+'''
+   
+    
