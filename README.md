@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Let's make this world a better place with coding.
 ## self improving is on.
 [Reach me ](www.instagram.com/ashish_mishra_786)
->** TALK IS CHEAP , LET'S CODE **
+>TALK IS CHEAP , LET'S CODE 
 ''' 
 While (doubt)
 { 
