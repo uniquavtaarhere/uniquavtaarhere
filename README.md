@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Let's make this world a better place with coding.
-## self improving is on.
+## self improvement is on.
 [Reach me ](www.instagram.com/ashish_mishra_786)
 >TALK IS CHEAP , LET'S CODE 
 ''' 
